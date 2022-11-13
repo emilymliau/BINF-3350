@@ -47,7 +47,7 @@
 - **Data Pre-Processing:** BRCA & KIRC DEG List
 - **Differential Expression Analysis:** Python Script (Cross-Cancer Comparison for Shared & Unique DEGs)
 - **Functional Enrichment Analysis:** GO (Shared DEGs)
-- **Data Visualization:** Preliminary BRCA Volcano Plot, R Script (Individual Volcano Plots for All Cancers (All DEGs, Highlighted Significant DEGs, Significant DEGs Only))
+- **Data Visualization:** Preliminary BRCA Volcano Plot, R Script (Individual Volcano Plots for All Cancers (All DEGs, Highlighted Significant DEGs, Significant DEGs Only)), Export Volcano Plots as PDF
 - **PowerPoint Presentation:** 
 - **In-Class Presentation:** 
 - **Written Report:** 
