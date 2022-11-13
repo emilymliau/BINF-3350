@@ -38,7 +38,7 @@
 - **Project Proposal (Original Draft):** Title, Hypothesis, Literature Review, Significance, Expected Results, Timeline & Reponsibilities, Document Formatting & Submission
 - **Project Proposal (Final Draft):** Read Peer Review Feedback, Literature Review, Restructure Project Objective & Methodology (Differential Expression, Functional Enrichment), Document Formatting & Submission
 - **Data Collection**: OncoDB Preliminary Download (BRCA, KIRC, LUAD)
-- **Differential Expression Analysis:** BRCA DEG List, Cross-Cancer Shared DEGs
+- **Differential Expression Analysis:** BRCA DEG List, Cross-Cancer Comparison (Shared & Unique DEGs)
 - **Functional Enrichment Analysis:** 
 - **Data Visualization:** BRCA Volcano Plot, Volcano Plots for All Cancers (All DEGs, Highlighted Significant DEGs, Significant DEGs Only)
 - **In-Class Presentation:** 
