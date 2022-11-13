@@ -17,7 +17,7 @@
 ### Brock Carey
 - **Project Proposal (Original Draft):** Feasibility (Data)
 - **Project Proposal (Final Draft):** Read Peer Review Feedback
-- **Data Collection**: OncoDB Preliminary Download (COAD)
+- **Data Collection**: N/A
 - **Data Pre-Processing:** COAD DEG List
 - **Differential Expression Analysis:** N/A
 - **Functional Enrichment Analysis:** 
@@ -43,11 +43,11 @@
 ### Emily Liau
 - **Project Proposal (Original Draft):** Title, Hypothesis, Literature Review, Significance, Expected Results, Timeline & Reponsibilities, Document Formatting & Submission
 - **Project Proposal (Final Draft):** Read Peer Review Feedback, Literature Review, Restructure Project Objective & Methodology (Differential Expression, Functional Enrichment), Document Formatting & Submission
-- **Data Collection**: OncoDB Preliminary Download (BRCA, KIRC, LUAD)
+- **Data Collection**: OncoDB Preliminary Download (Full Database), Python Script (.txt → .csv File Conversion)
 - **Data Pre-Processing:** BRCA & KIRC DEG List
-- **Differential Expression Analysis:** Python Script (Cross-Cancer Comparison - Shared & Unique DEGs)
+- **Differential Expression Analysis:** Python Script (Cross-Cancer Comparison for Shared & Unique DEGs)
 - **Functional Enrichment Analysis:** GO (Shared DEGs)
-- **Data Visualization:** Preliminary BRCA Volcano Plot, R Script (All Volcano Plots (All DEGs, Highlighted Significant DEGs, Significant DEGs Only))
+- **Data Visualization:** Preliminary BRCA Volcano Plot, R Script (Individual Volcano Plots for All Cancers (All DEGs, Highlighted Significant DEGs, Significant DEGs Only))
 - **PowerPoint Presentation:** 
 - **In-Class Presentation:** 
 - **Written Report:** 
