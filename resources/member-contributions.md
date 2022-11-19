@@ -7,8 +7,8 @@
 - **Data Collection**: N/A
 - **Data Pre-Processing:** N/A
 - **Differential Expression Analysis:** N/A
-- **Functional Enrichment Analysis:** 
-- **Data Visualization:** N/A
+- **Functional Enrichment Analysis:** GO (Shared, BRCA, COAD, KIRC, LUAD), GSEA (Shared, BRCA, COAD, KIRC, LUAD)
+- **Data Visualization:** 
 - **PowerPoint Presentation:** 
 - **In-Class Presentation:** 
 - **Written Report:** 
@@ -20,7 +20,7 @@
 - **Data Collection**: N/A
 - **Data Pre-Processing:** COAD DEG List
 - **Differential Expression Analysis:** N/A
-- **Functional Enrichment Analysis:** 
+- **Functional Enrichment Analysis:** GO (Shared, BRCA, COAD, KIRC, LUAD), GSEA (Shared, BRCA, COAD, KIRC, LUAD)
 - **Data Visualization:** Preliminary COAD Volcano Plot
 - **PowerPoint Presentation:** 
 - **In-Class Presentation:** 
@@ -33,7 +33,7 @@
 - **Data Collection**: N/A
 - **Data Pre-Processing:** LUAD DEG List, R Script (Data Standardization, Extracting All Significant DEGs)
 - **Differential Expression Analysis:** N/A
-- **Functional Enrichment Analysis:** 
+- **Functional Enrichment Analysis:** GO (Shared, BRCA, COAD, KIRC, LUAD), GSEA (Shared, BRCA, COAD, KIRC, LUAD)
 - **Data Visualization:** Preliminary LUAD Volcano Plot
 - **PowerPoint Presentation:** 
 - **In-Class Presentation:** 
@@ -46,7 +46,7 @@
 - **Data Collection**: OncoDB Preliminary Download (Full Database), Python Script (.txt → .csv File Conversion)
 - **Data Pre-Processing:** BRCA & KIRC DEG List
 - **Differential Expression Analysis:** Python Script (Cross-Cancer Comparison for Shared & Unique DEGs)
-- **Functional Enrichment Analysis:** GO (Shared DEGs)
+- **Functional Enrichment Analysis:** GO (Shared)
 - **Data Visualization:** Preliminary BRCA Volcano Plot, R Script (Individual Volcano Plots for All Cancers (All DEGs, Highlighted Significant DEGs, Significant DEGs Only)), Export Volcano Plots as PDF
 - **PowerPoint Presentation:** 
 - **In-Class Presentation:** 
